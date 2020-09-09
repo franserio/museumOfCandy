@@ -1,4 +1,4 @@
 index.html
-css
-imgs
-js
+/css
+/imgs
+/js
