@@ -5,7 +5,7 @@ A fully responsive Bootstrap 4 Website.
 * Flexbox-based grid system
 * Color change navbar with JavaScript
 
-Take a look here: (https://moc.luisgerman.tech/)
+### Take a look here: https://franserio.github.io/museumOfCandy/
 
 #### Credits
 
